@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{0324BED5-6B34-4DD4-980A-910B2DDE822F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{B8D51539-F00D-4A82-ACB1-08F4CDBD4632}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{B8D51539-F00D-4A82-ACB1-08F4CDBD4632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{139FBE5A-AAB7-4043-A1AD-66B6CFF510F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B8D51539-F00D-4A82-ACB1-08F4CDBD4632}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8D51539-F00D-4A82-ACB1-08F4CDBD4632}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8D51539-F00D-4A82-ACB1-08F4CDBD4632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139FBE5A-AAB7-4043-A1AD-66B6CFF510F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139FBE5A-AAB7-4043-A1AD-66B6CFF510F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139FBE5A-AAB7-4043-A1AD-66B6CFF510F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139FBE5A-AAB7-4043-A1AD-66B6CFF510F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
