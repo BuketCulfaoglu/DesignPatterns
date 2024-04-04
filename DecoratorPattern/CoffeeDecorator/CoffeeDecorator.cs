@@ -1,6 +1,6 @@
 ﻿namespace DecoratorPattern.CoffeeDecorator
 {
-    internal class CoffeeDecorator : ICoffee
+    internal abstract class CoffeeDecorator : ICoffee
     {
         protected ICoffee _decoratedCoffee;
 
