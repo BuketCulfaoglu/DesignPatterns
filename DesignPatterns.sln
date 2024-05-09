@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalPatterns", "Creat
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatterns", "BehavioralPatterns", "{22F2A14C-F024-4003-9DD9-D7382CD79C48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "CreationalPatterns\SingletonPattern\SingletonPattern.csproj", "{D997301A-C051-4195-A15B-7FCE24ED99F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "CreationalPatterns\SingletonPattern\SingletonPattern.csproj", "{D997301A-C051-4195-A15B-7FCE24ED99F1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralPatterns", "StructuralPatterns", "{CC119333-8FDF-4A37-A039-212B93CBF552}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlyweightPattern", "StructuralPatterns\FlyweightPattern\FlyweightPattern.csproj", "{60BE1655-E62C-460A-BB24-435C71C92293}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern", "StructuralPatterns\ProxyPattern\ProxyPattern.csproj", "{27BEC73D-F57C-4060-89D3-14FB7A8B98EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "CreationalPatterns\FactoryPattern\FactoryPattern.csproj", "{EE2E2425-A336-4323-95EB-8BF16375AF5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{27BEC73D-F57C-4060-89D3-14FB7A8B98EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27BEC73D-F57C-4060-89D3-14FB7A8B98EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27BEC73D-F57C-4060-89D3-14FB7A8B98EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2E2425-A336-4323-95EB-8BF16375AF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2E2425-A336-4323-95EB-8BF16375AF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2E2425-A336-4323-95EB-8BF16375AF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2E2425-A336-4323-95EB-8BF16375AF5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{A3834113-FA00-419A-AD1D-BE58426E736E} = {CC119333-8FDF-4A37-A039-212B93CBF552}
 		{60BE1655-E62C-460A-BB24-435C71C92293} = {CC119333-8FDF-4A37-A039-212B93CBF552}
 		{27BEC73D-F57C-4060-89D3-14FB7A8B98EE} = {CC119333-8FDF-4A37-A039-212B93CBF552}
+		{EE2E2425-A336-4323-95EB-8BF16375AF5F} = {46331701-384B-4177-AC50-603DF4246F69}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D1D50CB0-0B0D-4811-8FD2-DA9E2E6C055D}
