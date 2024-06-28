@@ -13,4 +13,4 @@ The Iterator pattern is a behavioral design pattern that provides a way to acces
 
 ## UML Diagram
 
-![Iterator Pattern UML](path/to/uml/diagram.png)
+![Iterator Pattern UML](diagramIteratorPattern.png)
