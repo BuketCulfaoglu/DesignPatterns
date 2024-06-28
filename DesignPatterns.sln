@@ -37,9 +37,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverPattern", "Behavior
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategyPattern", "BehavioralPatterns\StrategyPattern\StrategyPattern.csproj", "{1EB7CF0E-7D5F-415B-82A4-1A6F5D547D5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "BehavioralPatterns\CommandPattern\CommandPattern.csproj", "{E0A20E6F-15FC-4C31-AB0E-08E08DA825FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandPattern", "BehavioralPatterns\CommandPattern\CommandPattern.csproj", "{E0A20E6F-15FC-4C31-AB0E-08E08DA825FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "BehavioralPatterns\IteratorPattern\IteratorPattern.csproj", "{B72F09EC-45A3-44B5-A30F-993B1019511C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorPattern", "BehavioralPatterns\IteratorPattern\IteratorPattern.csproj", "{B72F09EC-45A3-44B5-A30F-993B1019511C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2-0896-4675-91F8-0773D3BB0A89}"
+	ProjectSection(SolutionItems) = preProject
+		_docs\diagramIteratorPattern.png = _docs\diagramIteratorPattern.png
+		iterator-pattern.md = iterator-pattern.md
+		uml_IteratorPattern.txt = uml_IteratorPattern.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
