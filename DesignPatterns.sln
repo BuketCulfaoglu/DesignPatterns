@@ -45,7 +45,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2
 	ProjectSection(SolutionItems) = preProject
 		_docs\diagramIteratorPattern.png = _docs\diagramIteratorPattern.png
 		iterator-pattern.md = iterator-pattern.md
-		uml_IteratorPattern.txt = uml_IteratorPattern.txt
 	EndProjectSection
 EndProject
 Global
