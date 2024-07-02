@@ -43,6 +43,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorPattern", "Behavior
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2-0896-4675-91F8-0773D3BB0A89}"
 	ProjectSection(SolutionItems) = preProject
+		chain-of-responsibility-pattern.md = chain-of-responsibility-pattern.md
 		_docs\diagramIteratorPattern.png = _docs\diagramIteratorPattern.png
 		_docs\iterator-pattern.md = _docs\iterator-pattern.md
 	EndProjectSection
