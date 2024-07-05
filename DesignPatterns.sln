@@ -45,7 +45,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2
 	ProjectSection(SolutionItems) = preProject
 		chain-of-responsibility-pattern.md = chain-of-responsibility-pattern.md
 		_docs\diagramIteratorPattern.png = _docs\diagramIteratorPattern.png
+		_docs\diagramVisitorPattern.png = _docs\diagramVisitorPattern.png
 		_docs\iterator-pattern.md = _docs\iterator-pattern.md
+		visitor-pattern.md = visitor-pattern.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "BehavioralPatterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{AF6E5FF4-6876-442C-8A74-54C752820EB0}"
