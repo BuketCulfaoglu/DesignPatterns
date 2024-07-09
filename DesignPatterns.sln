@@ -44,6 +44,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2-0896-4675-91F8-0773D3BB0A89}"
 	ProjectSection(SolutionItems) = preProject
 		_docs\chain-of-responsibility-pattern.md = _docs\chain-of-responsibility-pattern.md
+		_docs\diagramChainOfResponsibilityPattern.png = _docs\diagramChainOfResponsibilityPattern.png
 		_docs\diagramIteratorPattern.png = _docs\diagramIteratorPattern.png
 		_docs\diagramVisitorPattern.png = _docs\diagramVisitorPattern.png
 		_docs\interpreterPattern.md = _docs\interpreterPattern.md
