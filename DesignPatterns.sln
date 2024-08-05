@@ -45,20 +45,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2
 	ProjectSection(SolutionItems) = preProject
 		_docs\chain-of-responsibility-pattern.md = _docs\chain-of-responsibility-pattern.md
 		_docs\diagramChainOfResponsibilityPattern.png = _docs\diagramChainOfResponsibilityPattern.png
+		_docs\diagramInterpreterPattern.png = _docs\diagramInterpreterPattern.png
 		_docs\diagramIteratorPattern.png = _docs\diagramIteratorPattern.png
 		_docs\diagramVisitorPattern.png = _docs\diagramVisitorPattern.png
-		_docs\interpreterPattern.md = _docs\interpreterPattern.md
 		_docs\iterator-pattern.md = _docs\iterator-pattern.md
+		_docs\interpreter-pattern.md = _docs\interpreter-pattern.md
 		_docs\visitor-pattern.md = _docs\visitor-pattern.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "BehavioralPatterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{AF6E5FF4-6876-442C-8A74-54C752820EB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilityPattern", "BehavioralPatterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{AF6E5FF4-6876-442C-8A74-54C752820EB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "BehavioralPatterns\VisitorPattern\VisitorPattern.csproj", "{DCE767A9-4814-4B8D-B090-5959D2EDC6BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitorPattern", "BehavioralPatterns\VisitorPattern\VisitorPattern.csproj", "{DCE767A9-4814-4B8D-B090-5959D2EDC6BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterPattern", "BehavioralPatterns\InterpreterPattern\InterpreterPattern.csproj", "{3BAF31A5-8C60-4933-AE89-E5BBE627A5CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterpreterPattern", "BehavioralPatterns\InterpreterPattern\InterpreterPattern.csproj", "{3BAF31A5-8C60-4933-AE89-E5BBE627A5CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "BehavioralPatterns\MediatorPattern\MediatorPattern.csproj", "{3AFB2C48-DB7F-4D32-AFA9-11C764ABFAB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatorPattern", "BehavioralPatterns\MediatorPattern\MediatorPattern.csproj", "{3AFB2C48-DB7F-4D32-AFA9-11C764ABFAB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -13,7 +13,7 @@ The Interpreter pattern is a behavioral design pattern that defines a representa
 
 ## UML Diagram
 
-![Interpreter Pattern UML](diagranmInterpreterPattern.png)
+![Interpreter Pattern UML](diagramInterpreterPattern.png)
 
 ## Explanation
 
