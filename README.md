@@ -29,11 +29,12 @@
 - **Memento Pattern:** Captures and externalizes an object’s internal state so that the object can be restored to this state later, without violating encapsulation. It's commonly used in implementing undo mechanisms.
 - **State Pattern:** Allows an object to alter its behavior when its internal state changes, appearing as if the object changed its class. It's used in scenarios where an object’s behavior is influenced by its state, such as in state machines.
 - **Template Method Pattern:** Defines the skeleton of an algorithm in a method, deferring some steps to subclasses. It allows subclasses to redefine certain steps of an algorithm without changing its structure.
-- **Chain of Responsibility Pattern:** Passes requests along a chain of handlers. Each handler decides either to process the request or to pass it to the next handler in the chain.
+- **Chain of Responsibility Pattern:** Passes requests along a chain of handlers. Each handler decides either to process the request or to pass it to the next handler in the chain.  
 
 
 ## Table of Contents
 
+#### Behavioral Patterns
 - [Observer Pattern](_docs/observer-pattern.md)
 - [Strategy Pattern](_docs/strategy-pattern.md)
 - [Command Pattern](_docs/command-pattern.md)
@@ -45,3 +46,19 @@
 - [Memento Pattern](_docs/memento-pattern.md)
 - [State Pattern](_docs/state-pattern.md)
 - [Template Method Pattern](_docs/template-method-pattern.md)
+
+#### Structural Patterns
+- [Adapter Pattern](_docs/adapter-pattern.md)
+- [Bridge Pattern](_docs/bridge-pattern.md)
+- [Composite Pattern](_docs/composite-pattern.md)
+- [Decorator Pattern](_docs/decorator-pattern.md)
+- [Facade Pattern](_docs/facade-pattern.md)
+- [Flyweight Pattern](_docs/flyweight-pattern.md)
+- [Proxy Pattern](_docs/proxy-pattern.md)
+
+#### Creational Patterns
+- [Abstract Factory Pattern](_docs/abstract-factory-pattern.md)
+- [Builder Pattern](_docs/builder-pattern.md)
+- [Factory Method Pattern](_docs/factory-method-pattern.md)
+- [Prototype Pattern](_docs/prototype-pattern.md)
+- [Singleton Pattern](_docs/singleton-pattern.md)

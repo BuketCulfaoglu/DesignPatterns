@@ -43,11 +43,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorPattern", "Behavior
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2-0896-4675-91F8-0773D3BB0A89}"
 	ProjectSection(SolutionItems) = preProject
+		_docs\chain-of-responsibility-pattern.md = _docs\chain-of-responsibility-pattern.md
+		_docs\diagramChainOfResponsibilityPattern.png = _docs\diagramChainOfResponsibilityPattern.png
+		_docs\diagramInterpreterPattern.png = _docs\diagramInterpreterPattern.png
 		_docs\diagramIteratorPattern.png = _docs\diagramIteratorPattern.png
-		iterator-pattern.md = iterator-pattern.md
+		_docs\diagramVisitorPattern.png = _docs\diagramVisitorPattern.png
+		_docs\iterator-pattern.md = _docs\iterator-pattern.md
+		_docs\interpreter-pattern.md = _docs\interpreter-pattern.md
+		_docs\visitor-pattern.md = _docs\visitor-pattern.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "BehavioralPatterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{AF6E5FF4-6876-442C-8A74-54C752820EB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilityPattern", "BehavioralPatterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{AF6E5FF4-6876-442C-8A74-54C752820EB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisitorPattern", "BehavioralPatterns\VisitorPattern\VisitorPattern.csproj", "{DCE767A9-4814-4B8D-B090-5959D2EDC6BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterpreterPattern", "BehavioralPatterns\InterpreterPattern\InterpreterPattern.csproj", "{3BAF31A5-8C60-4933-AE89-E5BBE627A5CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatorPattern", "BehavioralPatterns\MediatorPattern\MediatorPattern.csproj", "{3AFB2C48-DB7F-4D32-AFA9-11C764ABFAB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +135,18 @@ Global
 		{AF6E5FF4-6876-442C-8A74-54C752820EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF6E5FF4-6876-442C-8A74-54C752820EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF6E5FF4-6876-442C-8A74-54C752820EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE767A9-4814-4B8D-B090-5959D2EDC6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE767A9-4814-4B8D-B090-5959D2EDC6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE767A9-4814-4B8D-B090-5959D2EDC6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE767A9-4814-4B8D-B090-5959D2EDC6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BAF31A5-8C60-4933-AE89-E5BBE627A5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAF31A5-8C60-4933-AE89-E5BBE627A5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAF31A5-8C60-4933-AE89-E5BBE627A5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAF31A5-8C60-4933-AE89-E5BBE627A5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFB2C48-DB7F-4D32-AFA9-11C764ABFAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFB2C48-DB7F-4D32-AFA9-11C764ABFAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFB2C48-DB7F-4D32-AFA9-11C764ABFAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFB2C48-DB7F-4D32-AFA9-11C764ABFAB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -145,6 +169,9 @@ Global
 		{E0A20E6F-15FC-4C31-AB0E-08E08DA825FA} = {22F2A14C-F024-4003-9DD9-D7382CD79C48}
 		{B72F09EC-45A3-44B5-A30F-993B1019511C} = {22F2A14C-F024-4003-9DD9-D7382CD79C48}
 		{AF6E5FF4-6876-442C-8A74-54C752820EB0} = {22F2A14C-F024-4003-9DD9-D7382CD79C48}
+		{DCE767A9-4814-4B8D-B090-5959D2EDC6BC} = {22F2A14C-F024-4003-9DD9-D7382CD79C48}
+		{3BAF31A5-8C60-4933-AE89-E5BBE627A5CE} = {22F2A14C-F024-4003-9DD9-D7382CD79C48}
+		{3AFB2C48-DB7F-4D32-AFA9-11C764ABFAB6} = {22F2A14C-F024-4003-9DD9-D7382CD79C48}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D1D50CB0-0B0D-4811-8FD2-DA9E2E6C055D}
