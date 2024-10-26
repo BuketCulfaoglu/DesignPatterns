@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MediatorPattern.Colleague" Collapsed="true">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Colleague.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorPattern.Colleague1" Collapsed="true">
+    <Position X="1.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Colleague1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorPattern.Colleague2" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Colleague2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorPattern.ConcreteMediator" Collapsed="true">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAgAQAAEA=</HashCode>
+      <FileName>ConcreteMediator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="MediatorPattern.IMediator" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMediator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
