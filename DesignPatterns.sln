@@ -54,6 +54,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2
 		_docs\interpreter-pattern.md = _docs\interpreter-pattern.md
 		_docs\iterator-pattern.md = _docs\iterator-pattern.md
 		_docs\mediator-pattern.md = _docs\mediator-pattern.md
+		_docs\memento-pattern.md = _docs\memento-pattern.md
 		_docs\observer-pattern.md = _docs\observer-pattern.md
 		strategy-pattern.md = strategy-pattern.md
 		_docs\visitor-pattern.md = _docs\visitor-pattern.md
