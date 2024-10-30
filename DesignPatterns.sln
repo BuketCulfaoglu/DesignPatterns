@@ -58,6 +58,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2
 		_docs\observer-pattern.md = _docs\observer-pattern.md
 		_docs\state-patternd.md = _docs\state-patternd.md
 		strategy-pattern.md = strategy-pattern.md
+		_docs\template-method-patternd.md = _docs\template-method-patternd.md
 		_docs\visitor-pattern.md = _docs\visitor-pattern.md
 	EndProjectSection
 EndProject
