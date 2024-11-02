@@ -44,9 +44,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2-0896-4675-91F8-0773D3BB0A89}"
 	ProjectSection(SolutionItems) = preProject
 		_docs\adapter-pattern.md = _docs\adapter-pattern.md
+		_docs\bridge-pattern.md = _docs\bridge-pattern.md
 		_docs\chain-of-responsibility-pattern.md = _docs\chain-of-responsibility-pattern.md
-		_docs\diagramAdapterPattern.png = _docs\diagramAdapterPattern.png
 		_docs\command-pattern.md = _docs\command-pattern.md
+		_docs\diagramAdapterPattern.png = _docs\diagramAdapterPattern.png
 		_docs\diagramChainOfResponsibilityPattern.png = _docs\diagramChainOfResponsibilityPattern.png
 		_docs\diagramInterpreterPattern.png = _docs\diagramInterpreterPattern.png
 		_docs\diagramIteratorPattern.png = _docs\diagramIteratorPattern.png
@@ -58,10 +59,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2
 		_docs\mediator-pattern.md = _docs\mediator-pattern.md
 		_docs\memento-pattern.md = _docs\memento-pattern.md
 		_docs\observer-pattern.md = _docs\observer-pattern.md
-		strategy-pattern.md = strategy-pattern.md
 		_docs\state-pattern.md = _docs\state-pattern.md
-		_docs\visitor-pattern.md = _docs\visitor-pattern.md
+		strategy-pattern.md = strategy-pattern.md
 		_docs\template-method-pattern.md = _docs\template-method-pattern.md
+		_docs\visitor-pattern.md = _docs\visitor-pattern.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilityPattern", "BehavioralPatterns\ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{AF6E5FF4-6876-442C-8A74-54C752820EB0}"
