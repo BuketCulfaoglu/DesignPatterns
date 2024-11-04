@@ -47,6 +47,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_docs", "_docs", "{D9F4F9F2
 		_docs\bridge-pattern.md = _docs\bridge-pattern.md
 		_docs\chain-of-responsibility-pattern.md = _docs\chain-of-responsibility-pattern.md
 		_docs\command-pattern.md = _docs\command-pattern.md
+		_docs\composite-pattern.md = _docs\composite-pattern.md
 		_docs\diagramAdapterPattern.png = _docs\diagramAdapterPattern.png
 		_docs\diagramChainOfResponsibilityPattern.png = _docs\diagramChainOfResponsibilityPattern.png
 		_docs\diagramInterpreterPattern.png = _docs\diagramInterpreterPattern.png
